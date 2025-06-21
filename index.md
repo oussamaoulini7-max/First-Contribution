@@ -12,6 +12,9 @@ menu:
 
 contributors:
 
+  - name: Pawan Bisht
+    username: Pawanbisht491
+    
   - name: Sharukhali Syed
     username: ai-apex-dev
     
