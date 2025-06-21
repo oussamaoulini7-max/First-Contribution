@@ -15,6 +15,9 @@ contributors:
   - name: Pawan Bisht
     username: Pawanbisht491
     
+  - name: Deepti Singh
+    username: deepti-50
+    
   - name: Sharukhali Syed
     username: ai-apex-dev
     
